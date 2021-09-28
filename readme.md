@@ -29,3 +29,7 @@ addAgent("Name of the agent", [initial position], [initial velocity], [goal posi
 
 - The axis limits of the plot are defined in [`run.m`](run.m#L14).
 - `plotSimulation` plots the current state of the agents along with their past path. This function is called in [`run.m#L51`](run.m#L51).
+
+## Demo
+- [!Results for 50 agents](/demo/50agents.mp4)
+
