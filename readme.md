@@ -31,5 +31,5 @@ addAgent("Name of the agent", [initial position], [initial velocity], [goal posi
 - `plotSimulation` plots the current state of the agents along with their past path. This function is called in [`run.m#L51`](run.m#L51).
 
 ## Demo
-- [!Results for 50 agents](/demo/50agents.gif)
+- [!Results for 50 agents](demo/50agents.gif)
 
